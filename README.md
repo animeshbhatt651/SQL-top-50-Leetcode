@@ -1,4 +1,5 @@
-Leetcode SQL Top 50 questions -- solved 
+<HTML>
+<B>Leetcode SQL Top 50 questions -- solved <B>
 
 <l1>Select</1>
 <l2>Joins</l2>
@@ -7,3 +8,4 @@ Leetcode SQL Top 50 questions -- solved
 <l5>Advanced select and Joins</l5>
 <l6>Subqueries</l6>
 <l7>Advanced String Functions / Regex / Clause</l7>
+</HTML>
